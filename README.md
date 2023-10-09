@@ -52,7 +52,7 @@ There is a small recess on the legs as I added a metal plate to use with other t
 
 ![Wiring](./img/wiring.png)
 
-I suggest looking at excellent Joe Scotto handwiring guides on Youtube.
+I suggest looking at Joe Scotto's excellent handwiring guides on Youtube.
 
 The RP2040 is socketed with Mill-Mas round pin headers. I soldered cut diode legs to the MCU as pins.
 
