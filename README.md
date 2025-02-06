@@ -1,6 +1,6 @@
 # Birdy44
 
-A low-profil 3d printed and handwired split keyboard
+A low-profile 3d printed and handwired split keyboard
 
 ![Birdy44](./img/First.png)
 
