@@ -54,7 +54,7 @@ There is a small recess on the legs as I added a metal plate to use with other t
 
 I suggest looking at Joe Scotto's excellent handwiring guides on Youtube.
 
-The RP2040 is socketed with Mill-Mas round pin headers. I soldered cut diode legs to the MCU as pins.
+The RP2040 is socketed with Mill-Max round pin headers. I soldered cut diode legs to the MCU as pins.
 
 The pin headers are glued on the plate, they should sit on the lip of the plate, may need some sanding.
 ![Plate](./img/Plate-Header.png)
